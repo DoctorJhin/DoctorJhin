@@ -1,19 +1,21 @@
-# Hi, I'm Ahmed | Aspiring Data & Business Analyst
-4th-year Business Information Systems student. I am currently transitioning from classroom theory to practical data projects.
+# Ahmed Wael | Data Systems & Operations Specialist
+4th-Year BIS Student | Specialized in Data Integrity & Operational Scaling
+I bridge the gap between complex business logic and technical execution. My background combines Business Information Systems (BIS) theory with real-world experience in FinTech market expansion and Relational Database architecture.
 
-## Tools I'm Currently Learning:
-- **SQL:** Working through the basics (Joins, Aggregations) on W3Schools and SQLBolt.
-- **Python:** Learning the fundamentals of Pandas for data manipulation via Kaggle.
-- **Excel:** Using it for quick data cleaning and basic pivot tables.
+## Technical Toolkit:
+Data Analysis: Python (Pandas/NumPy), SQL (Relational Logic, Aggregations), Advanced Excel.
+Systems & Logic: Django, PostGIS, Manual QA, Hallucination Auditing.
+Ops & Security: DeFi Operations, Regional Rebranding, Community Governance.
 
-## Learning Roadmap (Jan - Oct 2026)
-My goal is to be job-ready for a Junior Analyst role in Nuremberg, Germany by October.
-- [ ] Complete Google Data Analytics Professional Certificate (Learning Phase)
-- [ ] Build 3 small projects using real-world automotive datasets.
-- [ ] Reach B2 proficiency in German.
+## Project Milestones (2025 - 2026)
+NTI Data Visualization Labs: A collection of Python-based EDA (Exploratory Data Analysis) projects focusing on data cleaning and visualization patterns.
+Fixcity: Urban infrastructure reporting platform using Django and PostGIS.
+Market Expansion Ops (Izakaya): Strategic lead for a DeFi wallet's entry into the MENA and African markets.
 
-## 📁 Projects (Work in Progress)
-*Eventually, I will link my car-market analysis and future projects here as I build them.*
+## My Goal(s)
+Currently optimizing my technical profile for Junior Analyst & IT Compliance roles in Nuremberg, Germany.
+Language: Intensive German (Current Target: B2).
+Certifications: (In-Progress).
 
 ---
 
